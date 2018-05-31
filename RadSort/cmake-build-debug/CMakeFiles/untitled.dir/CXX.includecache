@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanmay/CLionProjects/untitled/Points.h
+
+/home/tanmay/CLionProjects/untitled/RadixSort.h
+Points.h
+/home/tanmay/CLionProjects/untitled/Points.h
+vector
+-
+iostream
+-
+omp.h
+-
+time.h
+-
+fstream
+-
+string
+-
+chrono
+-
+
+/home/tanmay/CLionProjects/untitled/main.cpp
+iostream
+-
+RadixSort.h
+/home/tanmay/CLionProjects/untitled/RadixSort.h
+time.h
+-
+fstream
+-
+string
+-
+math.h
+-
+chrono
+-
+
